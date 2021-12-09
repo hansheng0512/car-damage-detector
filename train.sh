@@ -1,0 +1,1 @@
+python custom.py train --dataset="/Users/hansheng/Desktop/car-damage-detector/" --weights=coco
